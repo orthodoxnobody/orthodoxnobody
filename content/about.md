@@ -53,4 +53,4 @@ My goal is to ensure that all writings found here are version controlled. It sho
 
 1. John 18:36 - translation by Father Lazarus Moore
 
-2. Schmemann, Alexander. The Journals of Father Alexander Schmemann, 1973-1983. Translated by Juliana Schmemann, St. Vladimir’s Seminary Press, 2000, p. 142.
+2. Schmemann, Alexander. The Journals of Father Alexander Schmemann, 1973-1983. Translated by Juliana Schmemann, St. Vladimir’s Seminary Press, 2000, p. 142. (this is a commonly accepted quote and reference, however I have not been able to verify it and I don't have this work. I will do my best to verify this, and if I am wrong, expect that it will be removed).
