@@ -1,0 +1,8 @@
+<div class="hero-quote">
+    <blockquote class="hero-quote-text">
+        {{ .Inner | markdownify }}
+    </blockquote>
+    {{ with .Get "author" }}
+    <cite class="hero-quote-author">— {{ . }}</cite>
+    {{ end }}
+</div>

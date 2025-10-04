@@ -1,0 +1,38 @@
+baseURL: 'https://orthodoxnobody.org/'
+languageCode: 'en-us'
+title: 'Orthodox Nobody'
+theme: 'hugo-PaperMod'
+
+taxonomies:
+  category: categories
+  tag: tags
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+menu:
+  main:
+    - name: "About"
+      url: "/about/"
+      weight: 10
+    - name: "Connect"
+      url: "/connect/"
+      weight: 20
+    - name: "Archives"
+      url: "/archives/"
+      weight: 30
+    - name: "Categories"
+      url: "/categories/"
+      weight: 35
+    - name: "Tags"
+      url: "/tags/"
+      weight: 36
+    - name: "Search"
+      url: "/search/"
+      weight: 40
+    - name: "Feed"
+      url: "/index.xml"
+      weight: 50
