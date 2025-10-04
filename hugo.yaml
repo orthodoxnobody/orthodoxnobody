@@ -3,6 +3,10 @@ languageCode: 'en-us'
 title: 'Orthodox Nobody'
 theme: 'hugo-PaperMod'
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 taxonomies:
   category: categories
   tag: tags
