@@ -2,6 +2,7 @@
 date = '2025-09-24T17:40:05-07:00'
 draft = false
 title = 'The First Post is the Hardest'
+categories = ['General', 'Rambling']
 [cover]
 image = "images/post-header/the-first-post.jpg"
 alt = "Crosses representing byzantine art and colors"

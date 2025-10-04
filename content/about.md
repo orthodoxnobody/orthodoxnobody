@@ -7,7 +7,7 @@ title = 'About'
 ### Who am I?
 Who are any of us? Maybe that's a job for anthropology. _Or is it?_
 
-I'm a North American convert to Eastern Orthodoxy from Protestantism (Baptist, Pentecostal, Mennonite Brethren), never really 'switching' denominations with any true intention or dissatisfaction, we mostly just attended church where it made sense or where we felt we fit in. I'm in my 40s. I've been married over 20 years. I have two kids. I live on the West Coast of Canada. I've been a Christian my whole life (in the Protestant tradition you might say 'I asked Jesus into my heart when I was four years old'). The first time I walked into an Orthodox Church was for a Vespers service on March 16, 2015. I never looked back.
+I'm a North American convert to Eastern Orthodoxy from Protestantism (Baptist, Pentecostal, Mennonite Brethren), never really 'switching' denominations with any true intention or dissatisfaction, we mostly just attended church where it made sense or where we felt we fit in. I'm in my 40s. I've been married over 20 years. I have two kids. I live on the West Coast of Canada. I've been a Christian my whole life (in the Protestant tradition you might say 'I asked Jesus into my heart when I was four years old'). The first time I walked into an Orthodox Church was for a Vespers service on March 16, 2015. I never looked back. I'm a technologist, I guess. I build software that solves problems. It's interesting, sometimes. 
 
 ### Who is this for?
 Interestingly, I've decided to write this blog for myself. 
@@ -23,7 +23,7 @@ So with that in mind, some might ask "Why bother writing this blog at all when y
 ## What are my politics?
 I'll save this for a future post.
 
-In the meantime, let me just say I hope to be equally disliked by all people who have glued themselves to any central, port or starboard portion of whatever they believe the political spectrum is. I don't believe that politics, nationalism or patriotism have any place in the Holy Church of God or in the Orthodox Faith, and I believe they are a miserable lens through which a person can view the world. Maybe 
+In the meantime, let me just say I hope to be equally disliked by all people who have glued themselves to any central, port or starboard portion of whatever they believe the political spectrum is. I don't believe that politics, nationalism or patriotism have any place in the Holy Church or in the Orthodox Faith, and I believe they are a miserable lens through which a person can view the world.
 
 > _Jesus answered: "My kingdom is not of this world, If My Kingdom was were of this world, my subjects would fight, that I would not be given up to the Jews. But now My Kingdom is not of this world."_ (1)
 
@@ -32,13 +32,13 @@ In the meantime, let me just say I hope to be equally disliked by all people who
 
 ## Why can't I comment on this blog?
 
-You can comment to me by sending an email to 'me' at the domain that this blog is hosted at. I love talking to people.
+You can comment by sending an email to 'me' at the domain that this blog is hosted at. I love talking to people.
 
 ## Where can I find you on social media?
 
 That's hilarious. I don't social media.
 
-## Claims and Sources
+## What are your sources?
 Of the Orthodox Faith I try very hard not to make _any claim_ about _any thing_ that can not be supported by highly regarded Orthodox teachers (usually Saints, generally and preferably people who are reposed). As one of my favourite priests says:
 
 {{< hero-quote author="One of my dearly loved Priest Friends who will remain anonymous" >}}
