@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is a Hugo static site for Orthodox Christianity and theology discussions. The site uses the Hugo PaperMod theme (as a git submodule) and is designed for deployment via GitHub Pages.
 
-**Live Site:** https://orthodoxnobody.org/
+**Live Site:** https://orthodoxnobody.com/
 
 ## Essential Commands
 

@@ -252,7 +252,7 @@ The Hugo PaperMod theme is licensed under the MIT License.
 
 ## 🤝 Contact
 
-- Email: me@orthodoxnobody.org
+- Email: me@orthodoxnobody.com
 - GitHub: [@orthodoxnobody](https://github.com/orthodoxnobody)
 
 ---
