@@ -41,7 +41,7 @@ In the years since, we’ve joked about our different ways of viewing the world.
 
 Do we stand in church and say the **Symbol of Faith** together? Do we stand together and say, **“Forgive me, brothers and sisters,”** and come to the chalice with gratitude to God, and afterward hear:  
 
-> “Behold, this has touched your lips, taken away all your iniquity, and cleansed you from all your sins.”  
+> “Behold, this has touched your lips, taken away all your iniquity, and cleansed you from all your sins.” (Isaiah 6:7)
 
 Years later, this priest has baptized me, baptized my son, offered me the joy of serving with him behind the altar, and loved me unconditionally. He is a **living example** of what **unity of faith** means.  
 
