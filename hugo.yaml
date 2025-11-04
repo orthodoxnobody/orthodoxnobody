@@ -9,7 +9,6 @@ caches:
 
 taxonomies:
   category: categories
-  tag: tags
 
 outputs:
   home:
@@ -31,9 +30,6 @@ menu:
     - name: "Categories"
       url: "/categories/"
       weight: 35
-    - name: "Tags"
-      url: "/tags/"
-      weight: 36
     - name: "Search"
       url: "/search/"
       weight: 40
