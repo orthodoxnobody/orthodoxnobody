@@ -12,7 +12,7 @@ I have a dear friend I try to walk with once a week in the mornings. We talk abo
 
 He shared with me [this post](https://substack.com/home/post/p-174467211) written by Danielle Strickland shortly after the assassination that occurrect in September 2025 which resulted in political and 'evangelical' spectacle that needed to be seen to be believed.
 
-The title of her post is **"Our Desparate need for Discernment"** and it's a piece of writing that I appreciate and can relate to.
+The title of her post is **"Our Desperate need for Discernment"** and it's a piece of writing that I appreciate and can relate to.
 
 In it she says things like:
 
@@ -77,6 +77,6 @@ I came across a short essay recently, written by Julian R. Munds about Tom Bomba
 > 
 > (all emphasis mine)
 
-In conclusion, we **are** in desparate need of discernment, **however**, the discernment of how to treat power, how to treat others who are different from us, how to submit and how to give alms has already been given to us. That is why this story is sadder than we can possibly imagine. We have the answers, but we don't like them. And so American Evangelicalism and many other forms of 'Christianity' continue to scramble for and cling to power. 
+In conclusion, we **are** in desperate need of discernment, **however**, the discernment of how to treat power, how to treat others who are different from us, how to submit and how to give alms has already been given to us. That is why this story is sadder than we can possibly imagine. We have the answers, but we don't like them. And so American Evangelicalism and many other forms of 'Christianity' continue to scramble for and cling to power. 
 
 The irony is not lost on me, that I write this only days after we celebrate the coming of the one we call our Saviour, born into the stench of a barn, here to lay his power down and give himself up for the life of the world.
